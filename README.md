@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Emmanuel 👋 ![higif](https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif?cid=ecf05e47q04v1m88ajsmjc8d16y9pilizpoecwldtmg2vxp6&rid=giphy.gif&ct=g)
 
 <!--
 **Emmanuelaaron/Emmanuelaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
