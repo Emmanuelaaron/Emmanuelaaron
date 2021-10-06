@@ -45,11 +45,30 @@ const Emmanuelaaron = {
 ### Blogs
 - [Getting started with Flask](https://medium.com/@emmanuelisabirye9/getting-started-with-flask-fa215d18bcf5)
 - [TDD is the way to go](https://medium.com/@emmanuelisabirye9/tdd-is-the-way-to-go-bcfcafeb4891)
+ 
+ <!-- START Visitor Count -->
+<div align="center">
+<h2 align="centre">Visitors Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Emmanuelaaron}/count.svg" /></p> 
+<br>
+</div>
+<p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
+<hr>
+<!-- End Visitor Count -->
+
     
 <h2 align='center'>Emmanuel's GitHub Stats:</h2>
 
 ![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuelaaron&show_icons=true&count_private=true&theme=react) ![Emmanuel's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelaaron&show_icons=true&count_private=true&theme=react)
  </div>
+ 
+ <p align="center">
+ <h2 align="center">Contribution Graph</h2>
+<p>
+<img alt="Emmanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Emmanuelaaron&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
 <!--
 **Emmanuelaaron/Emmanuelaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
